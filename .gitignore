@@ -1,0 +1,21 @@
+# dependencias
+node_modules
+
+# build
+.next
+out
+
+# variables de entorno (nunca subir credenciales reales)
+.env
+.env.local
+.env*.local
+
+# vercel
+.vercel
+
+# logs
+*.log
+npm-debug.log*
+
+# sistema
+.DS_Store
