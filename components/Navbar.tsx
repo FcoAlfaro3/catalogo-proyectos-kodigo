@@ -12,7 +12,7 @@ export default function Navbar() {
           <Link href="/">Inicio</Link>
           <Link href="/proyectos">Proyectos</Link>
           <a
-            href="https://github.com/tu-usuario/bitacora-proyectos"
+            href="https://github.com/FcoAlfaro3/catalogo-proyectos-kodigo"
             target="_blank"
             rel="noreferrer"
           >
